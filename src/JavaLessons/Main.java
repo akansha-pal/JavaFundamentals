@@ -1,8 +1,10 @@
+package JavaLessons;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         int count = 3;
-        String name = "Cathy1";
+        String name = "Cathy";
         boolean isHappy = true;
         boolean done = false;
         int newCount = count * 2;
